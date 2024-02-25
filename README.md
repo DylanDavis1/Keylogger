@@ -1,32 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Keylogger README</title>
-</head>
-<body>
-    <h1>Keylogger</h1>
+# Keylogger
 
-    <p>This project is a keylogger developed for educational purposes only. It logs keystrokes on the target system for demonstration and learning purposes.</p>
+<img src="logo.jpg" width="300" height="300" />
 
-    <h2>Disclaimer</h2>
-    <p>Use this software responsibly and only with explicit permission from the owner of the system being monitored. Unauthorized use of keyloggers is illegal and unethical.</p>
+## Introduction
+The keylogger is designed to capture keystrokes on a machine. This application was created for expand our knowledge on different tools that are used and to have a better understanding on how they are made.
 
-    <h2>Features</h2>
-    <ul>
-        <li>Logs keystrokes including special keys</li>
-        <li>Hides console window for stealth operation</li>
-        <li>Adds itself to startup registry for persistence</li>
-        <li>Gathers basic system information</li>
-    </ul>
+**Disclaimer:** This application is intended for educational purposes only. The use of this software for any malicious or unauthorized activities is strictly prohibited. The author(s) do not condone or support illegal activities
 
-    <h2>Usage</h2>
-    <ol>
-        <li>Clone the repository.</li>
-        <li>Execute the script on the target system.</li>
-        <li>Review the logged data in the output file.</li>
-    </ol>
+## Features
+1. Captures keystrokes from the keyboard
+2. Supports special keys and key combinations
+3. Runs in the background with minimal visibility
+4. Logs keystrokes to a designated output file
 
-    <h2>Contributing</h2>
-    <p>Contributions are not accepted for this project as it is for educational purposes only
+
+## Usage
+1. Clone the repository or download the source code.
+2. Compile and run the application on the target machine.
+3. View the logged keystrokes in the designated output file.
+
+## Screenshots
+<img src="KeylogRH.png" width="450" height="375" />
+This screenshot shows the keystrokes captured when I typed in "RowdyHacks2024"
+
+## Acknowledgements
+- This Keylogger was created for RowdyHacks 2024 by Team Coderunner
