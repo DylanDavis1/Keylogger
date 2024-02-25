@@ -1,6 +1,6 @@
 # Keylogger
 
-<img src="logo.jpg" width="300" height="300" />
+<img src="dino.png" width="300" height="300" />
 
 ## Introduction
 The keylogger is designed to capture keystrokes on a machine. This application was created for expand our knowledge on different tools that are used and to have a better understanding on how they are made.
