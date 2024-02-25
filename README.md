@@ -20,7 +20,7 @@ The keylogger is designed to capture keystrokes on a machine. This application w
 3. View the logged keystrokes in the designated output file.
 
 ## Screenshots
-<img src="KeylogRH.png" width="450" height="450" />
+<img src="KeylogRH.png" width="700" height="450" />
 This screenshot shows the keystrokes captured when I typed in "RowdyHacks2024"
 
 ## Acknowledgements
