@@ -19,8 +19,8 @@ The keylogger is designed to capture keystrokes on a machine. This application w
 2. Compile and run the application on the target machine.
 3. View the logged keystrokes in the designated output file.
 
-## Screenshots
-<img src="KeylogRH.png" width="730" height="300" />
+## Screenshotss
+<img src="KeylogRH.png" width="750" height="200" />
 This screenshot shows the keystrokes captured when I typed in "RowdyHacks2024"
 
 ## Acknowledgements
