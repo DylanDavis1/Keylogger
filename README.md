@@ -1,54 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Keylogger</title>
-    <style>
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <h1 class="center">Keylogger</h1>
+# Keylogger
 
-    <div class="center">
-        <img src="logo.jpg" width="300" height="300" />
-    </div>
+<img src="logo.jpg" width="300" height="300" />
 
-    <h2>Introduction</h2>
-    <p>The keylogger is designed to capture keystrokes on a machine. This application was created for expand our knowledge on different tools that are used and to have a better understanding on how they are made.</p>
+## Introduction
+The keylogger is designed to capture keystrokes on a machine. This application was created for expand our knowledge on different tools that are used and to have a better understanding on how they are made.
 
-    <p><strong>Disclaimer:</strong> This application is intended for educational purposes only. The use of this software for any malicious or unauthorized activities is strictly prohibited. The author(s) do not condone or support illegal activities</p>
+**Disclaimer:** This application is intended for educational purposes only. The use of this software for any malicious or unauthorized activities is strictly prohibited. The author(s) do not condone or support illegal activities
 
-    <h2>Features</h2>
-    <ol>
-        <li>Captures keystrokes from the keyboard</li>
-        <li>Supports special keys and key combinations</li>
-        <li>Runs in the background with minimal visibility</li>
-        <li>Logs keystrokes to a designated output file</li>
-    </ol>
+## Features
+1. Captures keystrokes from the keyboard
+2. Supports special keys and key combinations
+3. Runs in the background with minimal visibility
+4. Logs keystrokes to a designated output file
 
-    <h2>Usage</h2>
-    <ol>
-        <li>Clone the repository or download the source code.</li>
-        <li>Compile and run the application on the target machine.</li>
-        <li>View the logged keystrokes in the designated output file.</li>
-    </ol>
 
-    <div class="center">
-        <img src="KeylogRH.png" width="450" height="375" />
-    </div>
-    
-    <p>This screenshot shows the keystrokes captured when I typed in "RowdyHacks2024"</p>
+## Usage
+1. Clone the repository or download the source code.
+2. Compile and run the application on the target machine.
+3. View the logged keystrokes in the designated output file.
 
-    <h2>Acknowledgements</h2>
-    <ul>
-        <li>This Keylogger was created for RowdyHacks 2024 by Team Coderunner</li>
-    </ul>
-</body>
-</html>
+## Screenshots
+<img src="KeylogRH.png" width="450" height="375" />
+This screenshot shows the keystrokes captured when I typed in "RowdyHacks2024"
+
+## Acknowledgements
+- This Keylogger was created for RowdyHacks 2024 by Team Coderunner
